@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Developer and Front End Designer<br>🌱 I’m currently learning Javascript and Boostrap<br>💬 Ask me about HTML and CSS <br>☎️ You can contact me via Linkedin or E-mail.
+🔭 Developer and Front-End Designer<br> ☎️ You can contact me via Linkedin or E-mail.
 
 
 ## 🌐 Socials:
